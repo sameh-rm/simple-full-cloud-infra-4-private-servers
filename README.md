@@ -4,7 +4,7 @@ udacity cloud devops engeneer project 2
 
 ## What is it ?
 
-The goal of the project is to provide some cloudformation scripts to deploy web servers for a highly available web app.
+The goal of the project is to provide some cloudformation scripts to deploy web servers for a highly available web app following the below diagram.
 ![Diagram](https://github.com/sameh-rm/simple-full-cloud-infra-4-private-servers/blob/master/Advanced%20Web%20Deployment.png?raw=true)
 ## how is the project cut out ?
 
